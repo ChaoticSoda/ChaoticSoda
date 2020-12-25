@@ -1,4 +1,4 @@
-### 👋Hello, welcome to my profile! I'm glad to see you're interested on my work!
+### 👋Hello, welcome to my profile! I'm glad to see you're interested in my work!
 
 #### 👾I'm a Computer Science student at the [Federal University of Sergipe](http://www.ufs.br/) 
 
