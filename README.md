@@ -1,10 +1,8 @@
 ### Hello, welcome to my profile! I'm glad to see you're interested on my work!
 
-#### I'm a Computer Science student at the [Federal University of Sergipe] 
-     (http://www.ufs.br/) 
+#### I'm a Computer Science student at the [Federal University of Sergipe](http://www.ufs.br/) 
 
-#### I'm currently also a Trainee in DevOps at [SofTeam Junior Enterprise] 
-     (https://softeam.com.br/) 
+#### I'm currently also a Trainee in DevOps at [SofTeam Junior Enterprise](https://softeam.com.br/) 
 
 <!--
 **ChaoticSoda/ChaoticSoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
